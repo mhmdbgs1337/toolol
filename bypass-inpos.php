@@ -1,12 +1,10 @@
 <?php
 	/*
-		SQLInjection Vuln Checker
-		Coded by João Artur (K3N1)
-		Designed by ZanutSec
-		http://www.youtube.com/c/KeniGamer
-		http://www.github.com/JoaoArtur
-		https://www.youtube.com/user/hackzanut
-		https://twitter.com/zanutsec
+		Bypass Internet Positif
+		Coded by HatsuSec
+		http://www.github.com/mhmdbgs1337
+		https://instagram.com/mhmdbgs1337
+		https://www.facebook.com/mhmdbgs1337
 	*/
 	?>
 <html>
