@@ -1,0 +1,374 @@
+<!DOCTYPE HTML>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <title>Muhamad Bagus M</title>
+    <link href="https://fonts.googleapis.com/css?family=Crete+Round|Merriweather|Patua+One|Roboto+Condensed&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+        <style>
+        body{
+            background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPBgxUwAAU+n3sIAAAAASUVORK5CYII=);
+            background-size:cover;
+            background-attachment: fixed;
+        }
+        hr {
+	border:0;
+	background:#dedede;
+	height:1px;
+}		
+ 
+header{
+	text-align: center;
+	color: #232323;
+}
+ 
+header .judul{
+	font-size: 17pt;
+}
+ 
+header .deskripsi{
+	font-size: 11pt;
+}
+    </style>
+</head>
+<body>
+    	<!-- bagian header template -->
+	<header>
+		<h1 class="judul">Muhamad Bagus M</h1>
+		<p class="deskripsi">Little information about my life.</p>
+	</header>
+    <center>
+ <div style="background-color: #; border: 1px solid #17202A; height: auto; margin: 9px 0px; padding: 5px; text-align: center; width: 750px;">
+ <img width="150" height="150" src="https://www.w3schools.com/w3images/avatar2.png" alt="Muhamad Bagus M">
+ <h4 class="card-title">Muhamad Bagus Maulana</h4>
+ <br>
+</body>
+</html>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header text-center">About Me</div>
+                    <div class="card-body">
+                        <p>
+                        I am a student who is interested in IT
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">    
+            <div class="col-md-12">
+                <ul class="nav nav-tabs nav-justified" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="tab" href="#personal_info">Personal Info</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#education">Education</a>
+                    </li>
+                </ul>
+                <div class="tab-content">
+                    <div id="personal_info" class="container tab-pane active"><br>
+                        <div class="table-responsive ">
+                            <table class="table" id="personal_info">
+                                <tbody>
+                                    <tr>  
+                                        <td>Domain</td>
+                                        <td>.com, .net, .org, dll + Gratis Hosting</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Ongkir</td>
+                                        <td>JNE, TIKI & POS</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Kuota Upload</td>
+                                        <td>300 MB</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Bandwith </td>
+                                        <td>Unlimited</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Email Account</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Fitur</td>
+                                        <td>Blog, Galeri, Album, Testimoni</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Pembayaran</td>
+                                        <td>Bank, OVO, dll</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="contact" class="container tab-pane fade"><br>
+                        <div class="table-responsive">
+                            <table class="table" id="contact">
+                                <tbody>
+ 									<tr>  
+                                        <td>Domain</td>
+                                        <td>.com, .net, .org, dll + Gratis Hosting</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Ongkir</td>
+                                        <td>JNE, TIKI & POS</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Kuota Upload</td>
+                                        <td>500 MB</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Bandwith </td>
+                                        <td>Unlimited</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Email Account</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Fitur</td>
+                                        <td>Blog, Galeri, Album, Testimoni</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Pembayaran</td>
+                                        <td>Bank, OVO, dll</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="education" class="container tab-pane fade"><br>
+                        <h5 class="coloring">Formal</h5>
+                        <div class="table-responsive">
+                            <table class="table" id="education_formal">
+                                <tbody>
+                                    <tr>  
+                                        <td>Domain</td>
+                                        <td>.com, .net, .org, dll + Gratis Hosting</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Ongkir</td>
+                                        <td>JNE, TIKI & POS</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Kuota Upload</td>
+                                        <td>1GB MB</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Bandwith </td>
+                                        <td>Unlimited</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Email Account</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Fitur</td>
+                                        <td>Blog, Galeri, Album, Testimoni</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Pembayaran</td>
+                                        <td>Bank, OVO, dll</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+                 <div style="background-color: #; border: 1px solid #17202A; height: auto; margin: 9px 0px; padding: 5px; text-align: center; width: 750px;">
+                <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header text-center">Jasa Pembuatan Website Toko Online</div>
+                    <div class="card-body">
+                        <p>
+                        Kami berikan harga yang tepat dan pas untuk usaha Anda. Teknologi bukan tentang mahal atau murah, tapi tepat sasaran apa tidaknya. Jadi, pastikan Anda berkonsultasi terlebih dahulu.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">    
+            <div class="col-md-12">
+                <ul class="nav nav-tabs nav-justified" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="tab" href="#personal_info">Personal Info</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#education">Education</a>
+                    </li>
+                </ul>
+                <div class="tab-content">
+                    <div id="personal_info" class="container tab-pane active"><br>
+                        <div class="table-responsive ">
+                            <table class="table" id="personal_info">
+                                <tbody>
+                                    <tr>  
+                                        <td>Domain</td>
+                                        <td>.com, .net, .org, dll + Gratis Hosting</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Ongkir</td>
+                                        <td>JNE, TIKI & POS</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Kuota Upload</td>
+                                        <td>300 MB</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Bandwith </td>
+                                        <td>Unlimited</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Email Account</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Fitur</td>
+                                        <td>Blog, Galeri, Album, Testimoni</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Pembayaran</td>
+                                        <td>Bank, OVO, dll</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="contact" class="container tab-pane fade"><br>
+                        <div class="table-responsive">
+                            <table class="table" id="contact">
+                                <tbody>
+ 									<tr>  
+                                        <td>Domain</td>
+                                        <td>.com, .net, .org, dll + Gratis Hosting</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Ongkir</td>
+                                        <td>JNE, TIKI & POS</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Kuota Upload</td>
+                                        <td>500 MB</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Bandwith </td>
+                                        <td>Unlimited</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Email Account</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Fitur</td>
+                                        <td>Blog, Galeri, Album, Testimoni</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Pembayaran</td>
+                                        <td>Bank, OVO, dll</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="education" class="container tab-pane fade"><br>
+                        <h5 class="coloring">Formal</h5>
+                        <div class="table-responsive">
+                            <table class="table" id="education_formal">
+                                <tbody>
+                                    <tr>  
+                                        <td>Domain</td>
+                                        <td>.com, .net, .org, dll + Gratis Hosting</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Ongkir</td>
+                                        <td>JNE, TIKI & POS</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Kuota Upload</td>
+                                        <td>1GB MB</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Bandwith </td>
+                                        <td>Unlimited</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Email Account</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Fitur</td>
+                                        <td>Blog, Galeri, Album, Testimoni</td>
+                                    </tr>
+                                    <tr>  
+                                        <td>Pembayaran</td>
+                                        <td>Bank, OVO, dll</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+ <div style="background-color: #; border: 1px solid #17202A; height: auto; margin: 9px 0px; padding: 5px; text-align: center; width: 750px;">
+     <h4>Contact Form Email</h4>
+     <form action="send.php" method="post">
+     <p><input type="text" name="email" placeholder="Your Email" size="30" required /></p>
+     <p><input type="text" name="name" placeholder="Your Name" size="30" required /></p>
+     <p><input type="text" name="subject" placeholder="Subject" size="50" required /></p>
+     <p><textarea name="message" placeholder="Your Message" rows="7" cols="50" required></textarea></p>
+     <p><input type="submit" name="Submit" value="Submit" /> <input type="reset" value="Delete" /></p>
+    </form>
+</div>
+        <div class="clearfix"></div>
+        
+        <footer class="container">
+                    <p><center>Copyright &copy; 2019 Muhamad Bagus Maulana</center></p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script type="text/javascript">
+        $(function() {
+            $(window).resize(function() {
+                if($('.container').width() < 768 ) {
+                    $('#text').toggleClass('col-md-8 col-md-12');
+                    $('#icon').toggleClass('col-md-4 d-none');
+                }
+            });
+
+            $(window).scroll(function() {
+                $(".slideanim").each(function() {
+                    var pos = $(this).offset().top;
+
+                    var winTop = $(window).scrollTop();
+                    if (pos < winTop + 600) {
+                        $(this).addClass("slide");
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
