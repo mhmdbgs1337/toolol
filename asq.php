@@ -45,7 +45,7 @@ function tanya(){
     print "$okegreen  ??$white Mau bertanya tentang apa? : ";
     $tanya = trim(fgets(STDIN));
     $tanya = str_replace(' ', '%20', $tanya);
-    print "$red  //$white Loading.....\n";
+    print "$red  //$white Tunggu selagi saya mencari pertanyaan ...\n";
     $result = file_get_contents('http://rpl2texar.000webhostapp.com/api/quora/tanya.php?soal='.$tanya);
     $json = json_decode($result, true);
     print "$red  //$white Dibawah ini adalah pertanyaan yang dapat anda berikan :\n\n";
